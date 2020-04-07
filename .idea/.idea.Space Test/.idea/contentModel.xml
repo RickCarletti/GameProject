@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ricardo\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ricardo\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Space Test.-2143781127.00" t="ExcludeRecursive" />
+    <e p="E:\Programando\Jogos\Space Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="2D Space Kit" t="Include">
+          <e p="Background Elements" t="Include">
+            <e p="Planets" t="Include">
+              <e p="Planet Masks" t="Include">
+                <e p="Note.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Stars" t="Include">
+              <e p="Recolor Us!.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Backgrounds" t="Include">
+            <e p="Background Tip.txt" t="Include" />
+            <e p="Fantasy Purple 2048" t="Include">
+              <e p="Note.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Particles (Sprites)" t="Include">
+            <e p="Note on Flares.txt" t="Include" />
+          </e>
+          <e p="Readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="AimBeam.cs" t="Include" />
+            <e p="Crosshair.cs" t="Include" />
+            <e p="CustomPointer.cs" t="Include" />
+            <e p="ExampleShipControl.cs" t="Include" />
+            <e p="ParallaxLayer.cs" t="Include" />
+            <e p="PlayerControlledTurret.cs" t="Include" />
+            <e p="Projectile.cs" t="Include" />
+            <e p="PSDestroy.cs" t="Include" />
+            <e p="ShipCamera.cs" t="Include" />
+            <e p="WARNING.txt" t="Include" />
+          </e>
+          <e p="Ships and Stations" t="Include">
+            <e p="Rendering Tip.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="ShipControler.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Space Test.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
